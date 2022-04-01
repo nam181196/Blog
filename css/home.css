@@ -1,0 +1,134 @@
+
+.main .blog-list .blog{
+  border-top: 4px solid #0CC;
+  padding: 35px 0px;
+}
+
+.main .blog-list .blog .image{
+  width: 100%;
+  height: 245px;
+}
+
+.main .blog-list .blog .title{
+  font-weight: 450;
+  font-size: 26px;
+  color: #0CC;
+  margin: 30px 0;
+}
+
+.main .blog-list .blog .demo{
+  color: #999;
+  margin-bottom: 55px;
+}
+.space-between{
+  display: flex;
+  justify-content: space-between;
+}
+.main .blog-list .blog .type-date{
+  color: #0CC;
+  border-bottom: 1px solid rgba(0,0,0,.1);
+  padding-bottom: 15px;
+}
+
+.main .blog-list .blog .comment-author{
+  color: #999;
+  padding-top: 15px;
+}
+
+.tag{
+  color: #0cc;
+}
+
+.Prev-Next-wp{
+  max-width: 50%;
+  padding-left: 15px;
+  padding-right: 15px;
+  flex: 0 0 50%;
+}
+.mb-2{
+  margin-bottom: 1px;
+}
+.tm-display{
+  display: inline-block;
+  border-radius: 5px;
+  font-size: 22px;
+}
+.tm-pad{
+  background-color: #0CC;
+  color: white;
+  padding: 8px 43px;
+  border: none;
+}
+.mr-20{
+  margin-right: 20px;
+}
+.tm-mt-100 {
+  margin-top: 100px;
+}
+.tm-mb-75 {
+  margin-bottom: 75px;
+}
+.tm-row {
+  max-width: 100%;
+  justify-content: space-between;
+}
+.row {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+.disable{
+  background-color: #f0f0f0;
+  cursor: not-allowed;
+  color: #999;
+}
+.ib{
+  display: inline-block;
+}
+.mr-3{
+  margin-right: 3px;
+}
+.paging-nav ul li{
+  list-style: none;
+  display: inline-block;
+  margin-right: 10px;
+}
+.paging-item.active .paging-link{
+  background-color: #0CC;
+  color: white;
+}
+.paging-link{
+  background-color: #f0f0f0;
+  color: #999;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+ul{
+  list-style-type: disc;
+}
+.col-12{
+  max-width: 100%;
+  flex: 0 0 100%;
+}
+.color-gray{
+  color: #999;
+}
+.col-md-6{
+  flex: 0 0 50%;
+  max-width: 50%;
+}
+.ex-link{
+  color: #0CC;
+}
+.copyright{
+  text-align: right;
+}
+span{
+  color: #999;
+}

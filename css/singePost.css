@@ -1,0 +1,88 @@
+.main .video.video {
+  border-top: 5px solid #0cc;
+  padding-top: 60px;
+  margin-bottom: 50px;
+}
+
+.detail-blog {
+}
+
+.detail-blog .content {
+}
+
+.detail-blog .title {
+  color: rgb(0, 153, 153);
+  font-weight: 400;
+  font-size: 25px;
+}
+
+.detail-blog .content p {
+  color: #999;
+  line-height: 35px;
+}
+
+.detail-blog .content .author {
+  margin-bottom: 40px;
+}
+
+.detail-blog .content .type {
+  color: #0cc;
+  text-align: right;
+}
+
+.detail-blog .comments .title {
+  border-bottom: 5px solid #0cc;
+  padding-bottom: 15px;
+}
+
+.comments .comment {
+  display: flex;
+  margin-top: 55px;
+}
+
+.comments .comment .user {
+}
+
+.comments .comment .user .avatar {
+  border-radius: 50%;
+  border: 1px solid rgb(222, 226, 230);
+  padding: 3px;
+}
+
+.comments .comment .user .name {
+  color: #0cc;
+  font-size: 17px;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.comments .comment .detail {
+  padding-left: 20px;
+  color: #999;
+}
+.custom-bt{
+  border-top: 5px solid #0cc;
+  padding-top: 20px;
+}
+.detail-blog .categories ul{
+  padding-left: 40px;
+  color:#0cc;
+  line-height: 35px;
+  margin-top: 30px;
+  margin-bottom: 80px;
+  font-weight: 400;
+}
+.detail-blog .related .blog-item{
+  margin-top: 45px;
+}
+.detail-blog .related .image{
+  width: 100%;
+}
+
+.detail-blog .related .name{
+  color:rgb(0,153,153);
+}
+
+.detail-blog .related .name:hover{
+  color: #0cc;
+}
